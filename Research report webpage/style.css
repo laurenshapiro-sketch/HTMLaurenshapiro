@@ -1,0 +1,39 @@
+/*Centering content*/
+body {
+  width: 70%;
+  margin: 0 auto;
+  margin-top: 24px;
+  margin-bottom: 40px;
+}
+
+/*Changing color of main heading*/
+h1 {
+  color: #805757;
+}
+
+/*Changing typeface of paras*/
+p {
+  font-family: sans-serif;
+}
+
+/*Changing color of para text to blue*/
+.blueText {
+  color: blue;
+}
+
+/*accomplishment Div*/
+#accomp {
+  background-color: #95984f;
+  padding: 20px;
+  border-radius: 12px;
+
+}
+/*accomplishment Div Heading to white*/
+#whiteHeading {
+  color: white;
+  font-family: Helvetica;
+}
+/*Making header image fit full width*/
+#myHeader {
+  width: 100%;
+}
